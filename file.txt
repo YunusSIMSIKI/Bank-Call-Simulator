@@ -1,0 +1,56 @@
+The number of operators in the bank : 15
+The probability distribution that governs dial-in attempts : 1.0
+The probability distribution that governs connect time : 10 - 15
+The length of time the simulation is to be run : 23
+Missed Calls : 0
+Efficiency for missed call : 100.0
+Efficiency for free time : 57.68115942028986
+The number of operators in the bank : 15
+The probability distribution that governs dial-in attempts : 0.8
+The probability distribution that governs connect time : 15 - 25
+The length of time the simulation is to be run : 25
+Missed Calls : 0
+Efficiency for missed call : 100.0
+Efficiency for free time : 49.86666666666667
+The number of operators in the bank : 15
+The probability distribution that governs dial-in attempts : 0.7
+The probability distribution that governs connect time : 12 - 35
+The length of time the simulation is to be run : 25
+Missed Calls : 0
+Efficiency for missed call : 100.0
+Efficiency for free time : 55.2
+The number of operators in the bank : 4
+The probability distribution that governs dial-in attempts : 0.7
+The probability distribution that governs connect time : 3 - 7
+The length of time the simulation is to be run : 25
+Missed Calls : 5
+Efficiency for missed call : 80.0
+Efficiency for free time : 65.99999999999999
+The number of operators in the bank : 4
+The probability distribution that governs dial-in attempts : 0.2
+The probability distribution that governs connect time : 3 - 7
+The length of time the simulation is to be run : 25
+Missed Calls : 0
+Efficiency for missed call : 100.0
+Efficiency for free time : 32.99999999999999
+The number of operators in the bank : 25
+The probability distribution that governs dial-in attempts : 0.9
+The probability distribution that governs connect time : 15 - 25
+The length of time the simulation is to be run : 60
+Missed Calls : 0
+Efficiency for missed call : 100.0
+Efficiency for free time : 61.266666666666666
+The number of operators in the bank : 6
+The probability distribution that governs dial-in attempts : 0.4
+The probability distribution that governs connect time : 15 - 25
+The length of time the simulation is to be run : 60
+Missed Calls : 6
+Efficiency for missed call : 90.0
+Efficiency for free time : 76.94444444444444
+The number of operators in the bank : 10
+The probability distribution that governs dial-in attempts : 0.93
+The probability distribution that governs connect time : 3 - 27
+The length of time the simulation is to be run : 60
+Missed Calls : 21
+Efficiency for missed call : 65.0
+Efficiency for free time : 83.66666666666667
